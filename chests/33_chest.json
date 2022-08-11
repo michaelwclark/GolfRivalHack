@@ -1,0 +1,88 @@
+{
+    "box_info": {
+        "id": 2352444169,
+        "box_id": 33,
+        "type": 1,
+        "diamond": 17,
+        "diamond_list": [
+            {
+                "num": 15
+            },
+            {
+                "num": 2,
+                "pin_bonus": 1,
+                "double": 0
+            }
+        ],
+        "gold": 325,
+        "ore": 0,
+        "token": 24,
+        "custom_skin": {},
+        "type_count": 6,
+        "prop_list": [
+            {
+                "id": 17,
+                "num": 87,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 25,
+                "num": 28,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 25,
+                "num": 5,
+                "ptype": 2,
+                "pin_bonus": 1,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 20,
+                "num": 32,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 13,
+                "num": 7,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 13,
+                "num": 1,
+                "ptype": 2,
+                "pin_bonus": 1,
+                "double": 0,
+                "extra": 0
+            }
+        ],
+        "open_time": 1659590017,
+        "extra": []
+    },
+    "user_info": {
+        "diamonds": 55,
+        "golds": 36051,
+        "ores": 0
+    },
+    "pay_diamonds": 0,
+    "daily_quest_res": [],
+    "box_list": {
+        "id": 2355830239,
+        "box_id": 34,
+        "unlock_endtime": 1659669872,
+        "mission_target": 7
+    }
+}

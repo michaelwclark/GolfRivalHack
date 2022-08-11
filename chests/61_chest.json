@@ -1,0 +1,41 @@
+{
+    "box_info": {
+        "id": 2353164408,
+        "box_id": 61,
+        "type": 0,
+        "diamond": 0,
+        "diamond_list": [],
+        "gold": 10,
+        "ore": 0,
+        "token": 0,
+        "custom_skin": {},
+        "type_count": 2,
+        "prop_list": [
+            {
+                "id": 7,
+                "num": 9,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            },
+            {
+                "id": 28,
+                "num": 1,
+                "ptype": 2,
+                "pin_bonus": 0,
+                "double": 0,
+                "extra": 0
+            }
+        ],
+        "open_time": 1659585301,
+        "extra": []
+    },
+    "user_info": {
+        "diamonds": 160,
+        "golds": 32985,
+        "ores": 0
+    },
+    "pay_diamonds": 18,
+    "daily_quest_res": []
+}
